@@ -1,16 +1,17 @@
 
 var palavras = [
-    { "palavra": "açaí", "dicas": ["É uma fruta tropical ", "Fazemos polpa de coloração roxa."] },
-    { "palavra": "maçã", "dicas": ["Doce e crocante ", "É uma excelente fonte de potássio."] },
-    { "palavra": "amora", "dicas": ["Geralmente é vermelha ", "É pequena e doce."] },
-    { "palavra": "caju", "dicas": ["Verde por fora e vermelho por dentro ", "Às vezes vem com bichinhos dentro."] },
-    { "palavra": "uva", "dicas": ["Pode ser verde ou roxa ", "É usada para fazer sucos e vinhos."] },
-    { "palavra": "coco", "dicas": ["Tem uma casca dura ", "Bebemos a deliciosa água que ele fornece."] },
-    { "palavra": "kiwi", "dicas": ["Tem uma pele marrom e peluda ", "É rico em vitamina C."] },
-    { "palavra": "figo", "dicas": ["Tem uma casca fina e é doce ", "É uma excelente fonte de vitamina C."] },
-    { "palavra": "manga", "dicas": ["Tem uma polpa suculenta e doce ", "É uma fruta tropical."] },
-    { "palavra": "jaca", "dicas": ["Tem a casca enrugada quando madura ", "Dizem que dá sono."] }
-  ];
+  { "palavra": "açaí", "dicas": ["Originária da região amazônica.", "Famosa por ser utilizada em tigelas nutritivas."] },
+  { "palavra": "maçã", "dicas": ["Variedade de cores, incluindo vermelha e verde.", "Comumente usada em sobremesas e tortas."] },
+  { "palavra": "amora", "dicas": ["Encontrada em arbustos.", "Uma ótima opção para compotas e geleias."] },
+  { "palavra": "caju", "dicas": ["Fruto de casca fina e suculenta.", "A castanha de caju também é apreciada."] },
+  { "palavra": "uva", "dicas": ["Cresce em cachos.", "É um ingrediente importante na produção de vinhos."] },
+  { "palavra": "coco", "dicas": ["Originária de palmeiras tropicais.", "Além da água, sua polpa e leite são amplamente usados."] },
+  { "palavra": "kiwi", "dicas": ["Originário da China.", "A casca não é consumida, mas sua polpa é rica em fibras e vitamina C."] },
+  { "palavra": "figo", "dicas": ["Fruto de casca fina e polpa suculenta.", "Consumido fresco ou seco, é uma boa fonte de fibras."] },
+  { "palavra": "manga", "dicas": ["Originária do sul da Ásia.", "Existem diversas variedades, cada uma com sabor único."] },
+  { "palavra": "jaca", "dicas": ["A maior fruta de árvore do mundo.", "Usada em diversas receitas, de pratos salgados a doces."] }
+]
+;
   
   var palavraSorteada;
   var primeiraLetra;
