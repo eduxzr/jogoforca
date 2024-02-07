@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color:#ff63d84e;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  button {
+    padding: 10px;
+    margin: 5px;
+    font-size: 16px;
+    background-color: #ff00bf;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #ff00bf;
+  }
+  
+  input {
+    padding: 8px;
+    font-size: 14px;
+  }
+  
+  #pergunta {
+    font-size: 18px;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  #dica {
+    font-size: 16px;
+    color: #666;
+    margin-top: 10px;
+  }
+  
+  
